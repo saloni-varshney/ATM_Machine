@@ -26,7 +26,7 @@ To run the project\ 1.Download all the code files (total 3)\ 2.Store them in a s
 ## Collaboration
 ***
 Collaborators for this project are:
-> Nousheen Sultana - 2020SP93062 
+> Nousheen Sulthana - 2020SP93062 
 > Saloni Varshney - 2020SP93053
 > Gaurav Singh - 2020sp93057
 
