@@ -27,7 +27,7 @@ To run the project\ 1.Download all the code files (total 3)\ 2.Store them in a s
 ***
 Collaborators for this project are:
 > Nousheen Sultana - 2020SP93062 
-> Should it encompass several lines?
+> Saloni Varshney - 2020SP93053
 > This is how you do it.
 
 
