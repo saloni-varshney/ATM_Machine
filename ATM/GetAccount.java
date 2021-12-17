@@ -12,11 +12,11 @@ public class GetAccount {
 		boolean end = false;
 		while (!end) {
 			try {
-				System.out.println("Select any account:");
+				System.out.println("\nSelect the account you want to access: ");
 				System.out.println(" Type 1 - Checkings Account");
 				System.out.println(" Type 2 - Savings Account");
 				System.out.println(" Type 3 - Exit");
-				System.out.print("\nEnter your Choice: ");
+				System.out.print("\nChoice: ");
 
 				int selection = menuInput.nextInt();
 
