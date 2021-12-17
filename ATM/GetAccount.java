@@ -15,8 +15,9 @@ public class GetAccount {
 				System.out.println("\nSelect the account you want to access: ");
 				System.out.println(" Type 1 - Checkings Account");
 				System.out.println(" Type 2 - Savings Account");
+				System.out.println(" Type 3 - NRI Account");
 				System.out.println(" Type 3 - Exit");
-				System.out.print("\nChoice: ");
+				System.out.print("\nEnter your Choice: ");
 
 				int selection = menuInput.nextInt();
 
