@@ -25,8 +25,9 @@ To run the project\ 1.Download all the code files (total 3)\ 2.Store them in a s
 
 ## Collaboration
 ***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
+Collaborators for this project are:
+> Nousheen Sultana - 2020SP93062 
 > Should it encompass several lines?
 > This is how you do it.
+
 
