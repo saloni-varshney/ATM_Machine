@@ -28,6 +28,6 @@ To run the project\ 1.Download all the code files (total 3)\ 2.Store them in a s
 Collaborators for this project are:
 > Nousheen Sultana - 2020SP93062 
 > Should it encompass several lines?
-> This is how you do it.
+> Gaurav Singh - 2020sp93057
 
 
